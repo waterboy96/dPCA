@@ -17,7 +17,20 @@ pip install dPCA
 Fill me in please! Don’t forget code examples:
 
 ``` python
-1+1
+from dPCA.TEP import *
+from dPCA.analysis import *
 ```
 
-    2
+``` python
+TEP = GetTEP()
+```
+
+``` python
+analysis = Analysis(TEP,10)
+```
+
+``` python
+analysis.show_plots()
+```
+
+![](index_files/figure-commonmark/cell-5-output-1.png)
