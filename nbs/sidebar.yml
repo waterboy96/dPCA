@@ -1,0 +1,8 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_LagFunctions.ipynb
+      - 01_Correlation_Matrices.ipynb
+      - 02_TEP.ipynb
+      - 03_Analysis.ipynb
