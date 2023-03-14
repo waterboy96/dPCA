@@ -17,6 +17,5 @@ d = { 'settings': { 'branch': 'main',
                               'dPCA.corrmat.imposter_matrix': ('correlation_matrices.html#imposter_matrix', 'dPCA/corrmat.py'),
                               'dPCA.corrmat.partial_correlation_matrix': ( 'correlation_matrices.html#partial_correlation_matrix',
                                                                            'dPCA/corrmat.py')},
-            'dPCA.dPCA': {'dPCA.dPCA.foo': ('dpca.html#foo', 'dPCA/dPCA.py')},
             'dPCA.lag': { 'dPCA.lag.lag': ('lagfunctions.html#lag', 'dPCA/lag.py'),
                           'dPCA.lag.lag_uniform': ('lagfunctions.html#lag_uniform', 'dPCA/lag.py')}}}
