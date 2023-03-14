@@ -9,7 +9,7 @@ dPCA
 pip install dynamicPCA
 ```
 
-Visit the [homepage]('https://waterboy96.github.io/dPCA/') for
+Visit the [homepage](https://waterboy96.github.io/dPCA/) for
 documentation and example usecases.
 
 ## How to use
