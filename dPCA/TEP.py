@@ -8,7 +8,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.cm as cm
 import matplotlib.pyplot as plt
-import pingouin as pg
 
 # %% ../nbs/02_TEP.ipynb 10
 def GetTEP():

@@ -8,7 +8,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.cm as cm
 import matplotlib.pyplot as plt
-import pingouin as pg
 
 # %% ../nbs/00_LagFunctions.ipynb 6
 def lag(X: pd.DataFrame, #A pandas dataframe with observations as rows and variables as columns
