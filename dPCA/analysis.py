@@ -8,6 +8,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.cm as cm
 import matplotlib.pyplot as plt
+import pingouin as pg
 from .lag import *
 from .corrmat import *
 from .TEP import *

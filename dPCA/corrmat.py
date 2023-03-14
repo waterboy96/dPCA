@@ -8,6 +8,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.cm as cm
 import matplotlib.pyplot as plt
+import pingouin as pg
 from .lag import *
 
 # %% ../nbs/01_Correlation_Matrices.ipynb 6
