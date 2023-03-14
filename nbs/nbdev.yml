@@ -2,8 +2,8 @@ project:
   output-dir: _docs
 
 website:
-  title: "dPCA"
-  site-url: "https://waterboy96.github.io/dPCA"
-  description: "Repo for dPCA"
+  title: "dynamicPCA"
+  site-url: "https://waterboy96.github.io/dynamicPCA"
+  description: "Repo for dynamic PCA"
   repo-branch: main
-  repo-url: "https://github.com/waterboy96/dPCA"
+  repo-url: "https://github.com/waterboy96/dynamicPCA"

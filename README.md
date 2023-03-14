@@ -6,12 +6,13 @@ dPCA
 ## Install
 
 ``` sh
-pip install dPCA
+pip install dynamicPCA
 ```
 
-## How to use
+Visit the [homepage]('https://waterboy96.github.io/dPCA/') for
+documentation and example usecases.
 
-Fill me in please! Don’t forget code examples:
+## How to use
 
 ``` python
 from dPCA.TEP import *
